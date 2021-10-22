@@ -1,0 +1,6 @@
+{"nome":"Fulano","data_hora":"22\/10\/2021 09:57:36","n1":"12","n2":"2","operacao":"soma","resultado":14}
+{"nome":"sicrano","data_hora":"22\/10\/2021 09:57:50","n1":"3","n2":"9","operacao":"multiplicacao","resultado":27}
+{"nome":"Beltrano","data_hora":"22\/10\/2021 10:00:05","n1":"5","n2":"10","operacao":"divisao","resultado":0.5}
+{"nome":"asdf","data_hora":"22\/10\/2021 11:22:56","n1":"2","n2":"4","operacao":"soma","resultado":6}
+{"nome":"Marcio","data_hora":"22\/10\/2021 11:44:21","n1":"321","n2":"123","operacao":"subtracao","resultado":198}
+{"nome":"Fulano 2","data_hora":"22\/10\/2021 11:46:39","n1":"111","n2":"222","operacao":"multiplicacao","resultado":24642}

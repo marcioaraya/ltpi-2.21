@@ -1,0 +1,6 @@
+{"nome":"Marcio","curso":"ADS"}
+{"nome":"Fulano","curso":"ADS"}
+{"nome":"Siclano","curso":"GTI"}
+{"nome":"Paulo","curso":"GC"}
+{"nome":"Paulo","curso":"GC"}
+{"nome":"Maria","curso":"GRH"}
